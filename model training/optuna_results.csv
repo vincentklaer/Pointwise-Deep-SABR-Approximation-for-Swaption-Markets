@@ -1,0 +1,101 @@
+trial_number,params,mse
+1,"{'batch_size': 1024, 'optimizer': 'RMSprop', 'depth': 4, 'width_layer_0': 50, 'width_layer_1': 190, 'width_layer_2': 120, 'width_layer_3': 470}",0.0003672348102554679
+2,"{'batch_size': 1024, 'optimizer': 'Adam', 'depth': 3, 'width_layer_0': 300, 'width_layer_1': 160, 'width_layer_2': 10}",0.00036690497654490173
+3,"{'batch_size': 512, 'optimizer': 'Adam', 'depth': 3, 'width_layer_0': 340, 'width_layer_1': 340, 'width_layer_2': 140}",0.00036761799128726125
+0,"{'batch_size': 256, 'optimizer': 'RMSprop', 'depth': 1, 'width_layer_0': 350}",0.0005915681831538677
+5,"{'batch_size': 256, 'optimizer': 'Adam', 'depth': 5, 'width_layer_0': 10, 'width_layer_1': 110, 'width_layer_2': 10, 'width_layer_3': 490, 'width_layer_4': 340}",0.00040997142787091434
+6,"{'batch_size': 512, 'optimizer': 'RMSprop', 'depth': 4, 'width_layer_0': 70, 'width_layer_1': 380, 'width_layer_2': 470, 'width_layer_3': 130}",0.00030964461620897055
+7,"{'batch_size': 64, 'optimizer': 'RMSprop', 'depth': 4, 'width_layer_0': 350, 'width_layer_1': 200, 'width_layer_2': 20, 'width_layer_3': 450}",0.011791401542723179
+4,"{'batch_size': 64, 'optimizer': 'Adam', 'depth': 5, 'width_layer_0': 330, 'width_layer_1': 70, 'width_layer_2': 130, 'width_layer_3': 310, 'width_layer_4': 260}",0.0009404454613104463
+9,"{'batch_size': 64, 'optimizer': 'RMSprop', 'depth': 3, 'width_layer_0': 130, 'width_layer_1': 50, 'width_layer_2': 420}",0.0006108425441198051
+10,"{'batch_size': 512, 'optimizer': 'Adam', 'depth': 2, 'width_layer_0': 20, 'width_layer_1': 470}",0.00041496739140711725
+8,"{'batch_size': 512, 'optimizer': 'RMSprop', 'depth': 5, 'width_layer_0': 360, 'width_layer_1': 250, 'width_layer_2': 390, 'width_layer_3': 460, 'width_layer_4': 100}",0.0001642769348109141
+11,"{'batch_size': 64, 'optimizer': 'Adam', 'depth': 2, 'width_layer_0': 10, 'width_layer_1': 180}",0.0005934486398473382
+14,"{'batch_size': 512, 'optimizer': 'RMSprop', 'depth': 5, 'width_layer_0': 480, 'width_layer_1': 330, 'width_layer_2': 480, 'width_layer_3': 60, 'width_layer_4': 10}",0.00023865253024268895
+12,"{'batch_size': 32, 'optimizer': 'RMSprop', 'depth': 4, 'width_layer_0': 490, 'width_layer_1': 340, 'width_layer_2': 500, 'width_layer_3': 30}",0.0033640144392848015
+13,"{'batch_size': 128, 'optimizer': 'RMSprop', 'depth': 5, 'width_layer_0': 490, 'width_layer_1': 330, 'width_layer_2': 490, 'width_layer_3': 60, 'width_layer_4': 30}",0.0006114903371781111
+16,"{'batch_size': 128, 'optimizer': 'RMSprop', 'depth': 5, 'width_layer_0': 470, 'width_layer_1': 270, 'width_layer_2': 350, 'width_layer_3': 260, 'width_layer_4': 10}",0.0006432716036215425
+15,"{'batch_size': 128, 'optimizer': 'RMSprop', 'depth': 5, 'width_layer_0': 500, 'width_layer_1': 310, 'width_layer_2': 360, 'width_layer_3': 20, 'width_layer_4': 30}",0.000701048644259572
+17,"{'batch_size': 512, 'optimizer': 'RMSprop', 'depth': 5, 'width_layer_0': 420, 'width_layer_1': 260, 'width_layer_2': 310, 'width_layer_3': 260, 'width_layer_4': 20}",0.0003314596542622894
+18,"{'batch_size': 512, 'optimizer': 'RMSprop', 'depth': 5, 'width_layer_0': 430, 'width_layer_1': 480, 'width_layer_2': 340, 'width_layer_3': 350, 'width_layer_4': 130}",0.00012998288730159402
+19,"{'batch_size': 512, 'optimizer': 'RMSprop', 'depth': 4, 'width_layer_0': 420, 'width_layer_1': 440, 'width_layer_2': 300, 'width_layer_3': 360}",0.00031496566953137517
+20,"{'batch_size': 512, 'optimizer': 'RMSprop', 'depth': 4, 'width_layer_0': 220, 'width_layer_1': 440, 'width_layer_2': 240, 'width_layer_3': 370}",0.00033218038151971996
+23,"{'batch_size': 512, 'optimizer': 'RMSprop', 'depth': 5, 'width_layer_0': 420, 'width_layer_1': 400, 'width_layer_2': 410, 'width_layer_3': 180, 'width_layer_4': 160}",0.00014835380716249347
+21,"{'batch_size': 32, 'optimizer': 'RMSprop', 'depth': 4, 'width_layer_0': 210, 'width_layer_1': 500, 'width_layer_2': 240, 'width_layer_3': 390}",1.2804014682769775
+22,"{'batch_size': 32, 'optimizer': 'RMSprop', 'depth': 1, 'width_layer_0': 220}",0.0008390172151848674
+25,"{'batch_size': 512, 'optimizer': 'RMSprop', 'depth': 5, 'width_layer_0': 400, 'width_layer_1': 390, 'width_layer_2': 410, 'width_layer_3': 160, 'width_layer_4': 170}",0.00025739462580531836
+26,"{'batch_size': 512, 'optimizer': 'RMSprop', 'depth': 5, 'width_layer_0': 430, 'width_layer_1': 390, 'width_layer_2': 400, 'width_layer_3': 150, 'width_layer_4': 170}",0.00020502721599768847
+28,"{'batch_size': 512, 'optimizer': 'RMSprop', 'depth': 3, 'width_layer_0': 380, 'width_layer_1': 500, 'width_layer_2': 300}",0.00039329726132564247
+29,"{'batch_size': 512, 'optimizer': 'RMSprop', 'depth': 2, 'width_layer_0': 280, 'width_layer_1': 430}",0.0004087733686901629
+30,"{'batch_size': 1024, 'optimizer': 'RMSprop', 'depth': 4, 'width_layer_0': 380, 'width_layer_1': 240, 'width_layer_2': 350, 'width_layer_3': 210}",0.0003294187190476805
+27,"{'batch_size': 512, 'optimizer': 'RMSprop', 'depth': 5, 'width_layer_0': 390, 'width_layer_1': 400, 'width_layer_2': 410, 'width_layer_3': 170, 'width_layer_4': 160}",0.00024781905813142657
+32,"{'batch_size': 256, 'optimizer': 'RMSprop', 'depth': 1, 'width_layer_0': 450}",0.000554367434233427
+31,"{'batch_size': 512, 'optimizer': 'RMSprop', 'depth': 5, 'width_layer_0': 450, 'width_layer_1': 230, 'width_layer_2': 430, 'width_layer_3': 420, 'width_layer_4': 150}",0.0002208799123764038
+33,"{'batch_size': 512, 'optimizer': 'RMSprop', 'depth': 5, 'width_layer_0': 430, 'width_layer_1': 290, 'width_layer_2': 440, 'width_layer_3': 110, 'width_layer_4': 150}",0.0002913077478297055
+34,"{'batch_size': 512, 'optimizer': 'RMSprop', 'depth': 5, 'width_layer_0': 430, 'width_layer_1': 370, 'width_layer_2': 370, 'width_layer_3': 300, 'width_layer_4': 120}",0.000265731243416667
+36,"{'batch_size': 1024, 'optimizer': 'RMSprop', 'depth': 4, 'width_layer_0': 310, 'width_layer_1': 470, 'width_layer_2': 380, 'width_layer_3': 200}",0.0002561580331530422
+24,"{'batch_size': 32, 'optimizer': 'RMSprop', 'depth': 5, 'width_layer_0': 410, 'width_layer_1': 400, 'width_layer_2': 420, 'width_layer_3': 170, 'width_layer_4': 180}",0.4850165545940399
+35,"{'batch_size': 256, 'optimizer': 'RMSprop', 'depth': 5, 'width_layer_0': 290, 'width_layer_1': 410, 'width_layer_2': 380, 'width_layer_3': 220, 'width_layer_4': 110}",0.00038581923581659794
+39,"{'batch_size': 512, 'optimizer': 'Adam', 'depth': 4, 'width_layer_0': 360, 'width_layer_1': 460, 'width_layer_2': 320, 'width_layer_3': 320}",0.0002890397154260427
+37,"{'batch_size': 256, 'optimizer': 'Adam', 'depth': 5, 'width_layer_0': 360, 'width_layer_1': 410, 'width_layer_2': 330, 'width_layer_3': 310, 'width_layer_4': 260}",0.00022728538897354156
+40,"{'batch_size': 512, 'optimizer': 'Adam', 'depth': 4, 'width_layer_0': 330, 'width_layer_1': 150, 'width_layer_2': 200, 'width_layer_3': 110}",0.00033917094697244465
+42,"{'batch_size': 1024, 'optimizer': 'RMSprop', 'depth': 5, 'width_layer_0': 450, 'width_layer_1': 350, 'width_layer_2': 270, 'width_layer_3': 470, 'width_layer_4': 90}",0.00026080026873387396
+41,"{'batch_size': 512, 'optimizer': 'Adam', 'depth': 4, 'width_layer_0': 320, 'width_layer_1': 130, 'width_layer_2': 450, 'width_layer_3': 120}",0.0002703736536204815
+43,"{'batch_size': 512, 'optimizer': 'RMSprop', 'depth': 5, 'width_layer_0': 450, 'width_layer_1': 240, 'width_layer_2': 450, 'width_layer_3': 420, 'width_layer_4': 200}",0.00025374366668984294
+44,"{'batch_size': 512, 'optimizer': 'RMSprop', 'depth': 5, 'width_layer_0': 460, 'width_layer_1': 220, 'width_layer_2': 390, 'width_layer_3': 420, 'width_layer_4': 210}",0.00013509859854821116
+38,"{'batch_size': 256, 'optimizer': 'Adam', 'depth': 5, 'width_layer_0': 370, 'width_layer_1': 130, 'width_layer_2': 330, 'width_layer_3': 330, 'width_layer_4': 240}",0.00027482863515615463
+45,"{'batch_size': 512, 'optimizer': 'RMSprop', 'depth': 5, 'width_layer_0': 450, 'width_layer_1': 200, 'width_layer_2': 390, 'width_layer_3': 420, 'width_layer_4': 220}",0.00013915922318119556
+46,"{'batch_size': 64, 'optimizer': 'RMSprop', 'depth': 5, 'width_layer_0': 470, 'width_layer_1': 210, 'width_layer_2': 400, 'width_layer_3': 440, 'width_layer_4': 210}",0.01831236481666565
+48,"{'batch_size': 64, 'optimizer': 'RMSprop', 'depth': 5, 'width_layer_0': 470, 'width_layer_1': 200, 'width_layer_2': 390, 'width_layer_3': 440, 'width_layer_4': 490}",0.03124251216650009
+49,"{'batch_size': 512, 'optimizer': 'RMSprop', 'depth': 5, 'width_layer_0': 500, 'width_layer_1': 180, 'width_layer_2': 270, 'width_layer_3': 480, 'width_layer_4': 70}",0.0001824986538849771
+50,"{'batch_size': 512, 'optimizer': 'RMSprop', 'depth': 3, 'width_layer_0': 130, 'width_layer_1': 180, 'width_layer_2': 180}",0.00037656258791685104
+47,"{'batch_size': 64, 'optimizer': 'RMSprop', 'depth': 5, 'width_layer_0': 470, 'width_layer_1': 200, 'width_layer_2': 390, 'width_layer_3': 430, 'width_layer_4': 80}",0.0007893173606134951
+52,"{'batch_size': 128, 'optimizer': 'RMSprop', 'depth': 3, 'width_layer_0': 400, 'width_layer_1': 20, 'width_layer_2': 460}",0.0005186180351302028
+51,"{'batch_size': 128, 'optimizer': 'RMSprop', 'depth': 3, 'width_layer_0': 120, 'width_layer_1': 10, 'width_layer_2': 90}",0.00044080003863200545
+53,"{'batch_size': 512, 'optimizer': 'RMSprop', 'depth': 5, 'width_layer_0': 500, 'width_layer_1': 160, 'width_layer_2': 280, 'width_layer_3': 490, 'width_layer_4': 70}",0.00036300605279393494
+54,"{'batch_size': 512, 'optimizer': 'RMSprop', 'depth': 5, 'width_layer_0': 500, 'width_layer_1': 160, 'width_layer_2': 280, 'width_layer_3': 490, 'width_layer_4': 90}",0.00014191212540026754
+55,"{'batch_size': 512, 'optimizer': 'RMSprop', 'depth': 5, 'width_layer_0': 500, 'width_layer_1': 160, 'width_layer_2': 340, 'width_layer_3': 480, 'width_layer_4': 70}",0.000286362279439345
+57,"{'batch_size': 512, 'optimizer': 'RMSprop', 'depth': 4, 'width_layer_0': 440, 'width_layer_1': 90, 'width_layer_2': 350, 'width_layer_3': 500}",0.0003068878431804478
+58,"{'batch_size': 512, 'optimizer': 'RMSprop', 'depth': 4, 'width_layer_0': 450, 'width_layer_1': 90, 'width_layer_2': 360, 'width_layer_3': 400}",0.0003589095431379974
+56,"{'batch_size': 512, 'optimizer': 'RMSprop', 'depth': 4, 'width_layer_0': 500, 'width_layer_1': 280, 'width_layer_2': 350, 'width_layer_3': 500}",0.00030480814166367054
+59,"{'batch_size': 512, 'optimizer': 'RMSprop', 'depth': 5, 'width_layer_0': 410, 'width_layer_1': 280, 'width_layer_2': 370, 'width_layer_3': 390, 'width_layer_4': 130}",0.00020891187887173146
+60,"{'batch_size': 512, 'optimizer': 'RMSprop', 'depth': 5, 'width_layer_0': 410, 'width_layer_1': 300, 'width_layer_2': 480, 'width_layer_3': 460, 'width_layer_4': 120}",0.00015682906087022275
+63,"{'batch_size': 512, 'optimizer': 'RMSprop', 'depth': 5, 'width_layer_0': 480, 'width_layer_1': 220, 'width_layer_2': 500, 'width_layer_3': 460, 'width_layer_4': 270}",0.00019996250921394676
+62,"{'batch_size': 32, 'optimizer': 'RMSprop', 'depth': 5, 'width_layer_0': 480, 'width_layer_1': 220, 'width_layer_2': 290, 'width_layer_3': 360, 'width_layer_4': 300}",0.12821999192237854
+64,"{'batch_size': 32, 'optimizer': 'RMSprop', 'depth': 5, 'width_layer_0': 410, 'width_layer_1': 250, 'width_layer_2': 480, 'width_layer_3': 450, 'width_layer_4': 230}",0.35293084383010864
+65,"{'batch_size': 512, 'optimizer': 'RMSprop', 'depth': 5, 'width_layer_0': 400, 'width_layer_1': 310, 'width_layer_2': 430, 'width_layer_3': 460, 'width_layer_4': 220}",0.00020575452072080225
+66,"{'batch_size': 512, 'optimizer': 'RMSprop', 'depth': 5, 'width_layer_0': 340, 'width_layer_1': 370, 'width_layer_2': 430, 'width_layer_3': 410, 'width_layer_4': 110}",0.0001503224193584174
+68,"{'batch_size': 512, 'optimizer': 'RMSprop', 'depth': 2, 'width_layer_0': 270, 'width_layer_1': 360}",0.000402181816753
+67,"{'batch_size': 512, 'optimizer': 'RMSprop', 'depth': 5, 'width_layer_0': 340, 'width_layer_1': 300, 'width_layer_2': 420, 'width_layer_3': 410, 'width_layer_4': 120}",0.00012994858843740076
+61,"{'batch_size': 32, 'optimizer': 'RMSprop', 'depth': 5, 'width_layer_0': 400, 'width_layer_1': 220, 'width_layer_2': 290, 'width_layer_3': 350, 'width_layer_4': 230}",0.6239564418792725
+69,"{'batch_size': 512, 'optimizer': 'RMSprop', 'depth': 5, 'width_layer_0': 430, 'width_layer_1': 300, 'width_layer_2': 460, 'width_layer_3': 410, 'width_layer_4': 130}",0.0003333463391754776
+70,"{'batch_size': 512, 'optimizer': 'RMSprop', 'depth': 5, 'width_layer_0': 350, 'width_layer_1': 320, 'width_layer_2': 420, 'width_layer_3': 410, 'width_layer_4': 140}",0.0001591752952663228
+72,"{'batch_size': 1024, 'optimizer': 'RMSprop', 'depth': 5, 'width_layer_0': 340, 'width_layer_1': 480, 'width_layer_2': 420, 'width_layer_3': 380, 'width_layer_4': 190}",0.00025998937780968845
+73,"{'batch_size': 512, 'optimizer': 'RMSprop', 'depth': 5, 'width_layer_0': 340, 'width_layer_1': 260, 'width_layer_2': 440, 'width_layer_3': 380, 'width_layer_4': 190}",0.00010571965685812756
+74,"{'batch_size': 512, 'optimizer': 'RMSprop', 'depth': 5, 'width_layer_0': 460, 'width_layer_1': 370, 'width_layer_2': 480, 'width_layer_3': 280, 'width_layer_4': 100}",0.00024515605764463544
+71,"{'batch_size': 512, 'optimizer': 'RMSprop', 'depth': 5, 'width_layer_0': 180, 'width_layer_1': 320, 'width_layer_2': 420, 'width_layer_3': 400, 'width_layer_4': 190}",0.0002661129110492766
+79,"{'batch_size': 512, 'optimizer': 'RMSprop', 'depth': 5, 'width_layer_0': 300, 'width_layer_1': 260, 'width_layer_2': 400, 'width_layer_3': 340, 'width_layer_4': 50}",0.00037496216828003526
+80,"{'batch_size': 512, 'optimizer': 'RMSprop', 'depth': 5, 'width_layer_0': 250, 'width_layer_1': 270, 'width_layer_2': 440, 'width_layer_3': 350, 'width_layer_4': 50}",0.00016792175301816314
+81,"{'batch_size': 512, 'optimizer': 'Adam', 'depth': 5, 'width_layer_0': 380, 'width_layer_1': 430, 'width_layer_2': 440, 'width_layer_3': 370, 'width_layer_4': 180}",0.0001812285336200148
+82,"{'batch_size': 512, 'optimizer': 'Adam', 'depth': 4, 'width_layer_0': 370, 'width_layer_1': 450, 'width_layer_2': 380, 'width_layer_3': 390}",0.0002715235750656575
+78,"{'batch_size': 512, 'optimizer': 'RMSprop', 'depth': 5, 'width_layer_0': 240, 'width_layer_1': 260, 'width_layer_2': 400, 'width_layer_3': 350, 'width_layer_4': 40}",0.00012555293506011367
+88,"{'batch_size': 128, 'optimizer': 'RMSprop', 'depth': 4, 'width_layer_0': 230, 'width_layer_1': 240, 'width_layer_2': 220, 'width_layer_3': 240}",0.0005200431332923472
+87,"{'batch_size': 128, 'optimizer': 'RMSprop', 'depth': 4, 'width_layer_0': 230, 'width_layer_1': 240, 'width_layer_2': 240, 'width_layer_3': 290}",0.0005339128547348082
+86,"{'batch_size': 128, 'optimizer': 'RMSprop', 'depth': 4, 'width_layer_0': 240, 'width_layer_1': 240, 'width_layer_2': 240, 'width_layer_3': 290}",0.000538842985406518
+90,"{'batch_size': 512, 'optimizer': 'RMSprop', 'depth': 5, 'width_layer_0': 260, 'width_layer_1': 340, 'width_layer_2': 410, 'width_layer_3': 370, 'width_layer_4': 160}",0.0002770100545603782
+89,"{'batch_size': 512, 'optimizer': 'RMSprop', 'depth': 5, 'width_layer_0': 190, 'width_layer_1': 190, 'width_layer_2': 400, 'width_layer_3': 290, 'width_layer_4': 150}",0.00012993960990570486
+93,"{'batch_size': 256, 'optimizer': 'RMSprop', 'depth': 5, 'width_layer_0': 190, 'width_layer_1': 140, 'width_layer_2': 370, 'width_layer_3': 320, 'width_layer_4': 160}",0.0003912973334081471
+92,"{'batch_size': 512, 'optimizer': 'RMSprop', 'depth': 5, 'width_layer_0': 310, 'width_layer_1': 200, 'width_layer_2': 400, 'width_layer_3': 430, 'width_layer_4': 40}",0.000267588475253433
+94,"{'batch_size': 512, 'optimizer': 'RMSprop', 'depth': 5, 'width_layer_0': 210, 'width_layer_1': 180, 'width_layer_2': 390, 'width_layer_3': 250, 'width_layer_4': 200}",0.000347937602782622
+91,"{'batch_size': 512, 'optimizer': 'RMSprop', 'depth': 5, 'width_layer_0': 180, 'width_layer_1': 340, 'width_layer_2': 400, 'width_layer_3': 430, 'width_layer_4': 160}",0.0002620537707116455
+95,"{'batch_size': 512, 'optimizer': 'RMSprop', 'depth': 5, 'width_layer_0': 160, 'width_layer_1': 180, 'width_layer_2': 390, 'width_layer_3': 330, 'width_layer_4': 140}",0.0002642902545630932
+96,"{'batch_size': 512, 'optimizer': 'RMSprop', 'depth': 5, 'width_layer_0': 170, 'width_layer_1': 180, 'width_layer_2': 320, 'width_layer_3': 70, 'width_layer_4': 140}",0.00028999053756706417
+98,"{'batch_size': 1024, 'optimizer': 'RMSprop', 'depth': 5, 'width_layer_0': 440, 'width_layer_1': 190, 'width_layer_2': 320, 'width_layer_3': 380, 'width_layer_4': 250}",0.00021297269267961383
+97,"{'batch_size': 1024, 'optimizer': 'RMSprop', 'depth': 5, 'width_layer_0': 170, 'width_layer_1': 190, 'width_layer_2': 320, 'width_layer_3': 330, 'width_layer_4': 140}",0.0002834406332112849
+99,"{'batch_size': 512, 'optimizer': 'RMSprop', 'depth': 5, 'width_layer_0': 330, 'width_layer_1': 260, 'width_layer_2': 430, 'width_layer_3': 380, 'width_layer_4': 110}",0.0003010474028997123
+100,"{'batch_size': 512, 'optimizer': 'RMSprop', 'depth': 5, 'width_layer_0': 70, 'width_layer_1': 210, 'width_layer_2': 430, 'width_layer_3': 190, 'width_layer_4': 120}",0.00029118667589500546
+103,"{'batch_size': 64, 'optimizer': 'RMSprop', 'depth': 5, 'width_layer_0': 280, 'width_layer_1': 420, 'width_layer_2': 450, 'width_layer_3': 420, 'width_layer_4': 180}",0.0009529574308544397
+102,"{'batch_size': 64, 'optimizer': 'RMSprop', 'depth': 5, 'width_layer_0': 290, 'width_layer_1': 420, 'width_layer_2': 460, 'width_layer_3': 410, 'width_layer_4': 110}",0.000799129600636661
+101,"{'batch_size': 512, 'optimizer': 'RMSprop', 'depth': 5, 'width_layer_0': 290, 'width_layer_1': 420, 'width_layer_2': 430, 'width_layer_3': 270, 'width_layer_4': 100}",0.0002770174469333142
+104,"{'batch_size': 512, 'optimizer': 'RMSprop', 'depth': 5, 'width_layer_0': 480, 'width_layer_1': 490, 'width_layer_2': 360, 'width_layer_3': 400, 'width_layer_4': 100}",0.00022520075435750186
+105,"{'batch_size': 512, 'optimizer': 'RMSprop', 'depth': 5, 'width_layer_0': 460, 'width_layer_1': 390, 'width_layer_2': 360, 'width_layer_3': 350, 'width_layer_4': 10}",0.0002436409267829731

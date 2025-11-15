@@ -1,0 +1,19 @@
+# Requires Python 3.9.6
+
+# cupy is required for Monte carlo simulations
+# cupy
+
+joblib==1.2.0
+matplotlib==3.8.0
+numpy==1.26.4
+optuna==4.4.0
+pandas==2.1.4
+plotly==5.9.0
+py_vollib==1.0.1
+py_vollib_vectorized==0.1.1
+scipy==1.11.4
+seaborn==0.12.2
+scikit-learn==1.2.2
+statsmodels==0.14.0
+torch==2.7.1
+tqdm==4.65.0
