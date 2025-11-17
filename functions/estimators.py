@@ -260,9 +260,9 @@ class NeuralNetwork:
     """
     def __init__(self):
         # Load model weights and scalers
-        model_path = "/Users/vincentklaer/Documents/Thesis/final for professor/functions/nn model/best_model.pth"
-        scaler_X_path = "/Users/vincentklaer/Documents/Thesis/final for professor/functions/nn model/scaler_X.pkl"
-        scaler_Y_path = "/Users/vincentklaer/Documents/Thesis/final for professor/functions/nn model/scaler_Y.pkl"
+        model_path = "functions/nn model/best_model.pth"
+        scaler_X_path = "functions/nn model/scaler_X.pkl"
+        scaler_Y_path = "functions/nn model/scaler_Y.pkl"
 
         # Build model and load trained weights
         self.model = WrappedModel()
