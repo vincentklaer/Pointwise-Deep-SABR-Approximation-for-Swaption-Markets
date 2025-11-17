@@ -1,3 +1,7 @@
+## Abstract
+This thesis investigates the use of a feedforward neural network as an approximation method for the implied volatility map of the SABR model, with a particular focus on swaption markets. The objective is to identify an approach that improves upon traditional approximations regarding both computational efficiency and accuracy. Using a two-step pointwise approach and a large synthetic training dataset, generated using Monte Carlo simulation, the neural network learns the mapping from SABR model parameters to implied volatilities. It is then evaluated on another synthetic dataset of swaptions, regarding its accuracy in generating implied volatilities from known SABR parameters, calibrating full volatility curves to recover the underlying SABR parameters, and producing option Greeks. Across nearly all evaluation metrics, the neural network approximation outperforms both the formula of Hagan et al. (2002) and the Zero Correlation Map of Antonov et al. (2013). Its principal shortcoming, however, lies in a higher number of arbitrage violations compared to other approximation methods.
+
+
 ## Development
 
 <p align="center">
